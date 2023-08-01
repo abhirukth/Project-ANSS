@@ -1,0 +1,14 @@
+C:\Users\abchakravarthy\OneDrive - Nagarro\Desktop\ANSS\ANSS-Backend\ANSS.Data\bin\Debug\net6.0\ANSS.DAL.deps.json
+C:\Users\abchakravarthy\OneDrive - Nagarro\Desktop\ANSS\ANSS-Backend\ANSS.Data\bin\Debug\net6.0\ANSS.DAL.dll
+C:\Users\abchakravarthy\OneDrive - Nagarro\Desktop\ANSS\ANSS-Backend\ANSS.Data\bin\Debug\net6.0\ANSS.DAL.pdb
+C:\Users\abchakravarthy\OneDrive - Nagarro\Desktop\ANSS\ANSS-Backend\ANSS.Data\obj\Debug\net6.0\ANSS.DAL.csproj.AssemblyReference.cache
+C:\Users\abchakravarthy\OneDrive - Nagarro\Desktop\ANSS\ANSS-Backend\ANSS.Data\obj\Debug\net6.0\ANSS.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abchakravarthy\OneDrive - Nagarro\Desktop\ANSS\ANSS-Backend\ANSS.Data\obj\Debug\net6.0\ANSS.DAL.AssemblyInfoInputs.cache
+C:\Users\abchakravarthy\OneDrive - Nagarro\Desktop\ANSS\ANSS-Backend\ANSS.Data\obj\Debug\net6.0\ANSS.DAL.AssemblyInfo.cs
+C:\Users\abchakravarthy\OneDrive - Nagarro\Desktop\ANSS\ANSS-Backend\ANSS.Data\obj\Debug\net6.0\ANSS.DAL.csproj.CoreCompileInputs.cache
+C:\Users\abchakravarthy\OneDrive - Nagarro\Desktop\ANSS\ANSS-Backend\ANSS.Data\obj\Debug\net6.0\ANSS.DAL.dll
+C:\Users\abchakravarthy\OneDrive - Nagarro\Desktop\ANSS\ANSS-Backend\ANSS.Data\obj\Debug\net6.0\refint\ANSS.DAL.dll
+C:\Users\abchakravarthy\OneDrive - Nagarro\Desktop\ANSS\ANSS-Backend\ANSS.Data\obj\Debug\net6.0\ANSS.DAL.pdb
+C:\Users\abchakravarthy\OneDrive - Nagarro\Desktop\ANSS\ANSS-Backend\ANSS.Data\obj\Debug\net6.0\ref\ANSS.DAL.dll
+C:\Users\abchakravarthy\OneDrive - Nagarro\Desktop\ANSS\ANSS-Backend\ANSS.Data\bin\Debug\net6.0\ANSS.DAL.runtimeconfig.json
+C:\Users\abchakravarthy\OneDrive - Nagarro\Desktop\ANSS\ANSS-Backend\ANSS.Data\obj\Debug\net6.0\ANSS.DAL.genruntimeconfig.cache

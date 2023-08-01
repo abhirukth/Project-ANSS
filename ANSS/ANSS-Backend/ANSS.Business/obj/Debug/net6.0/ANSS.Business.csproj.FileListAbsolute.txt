@@ -1,0 +1,17 @@
+C:\Users\abchakravarthy\OneDrive - Nagarro\Desktop\ANSS\ANSS-Backend\ANSS.Business\bin\Debug\net6.0\ANSS.Business.deps.json
+C:\Users\abchakravarthy\OneDrive - Nagarro\Desktop\ANSS\ANSS-Backend\ANSS.Business\bin\Debug\net6.0\ANSS.Business.dll
+C:\Users\abchakravarthy\OneDrive - Nagarro\Desktop\ANSS\ANSS-Backend\ANSS.Business\bin\Debug\net6.0\ANSS.Business.pdb
+C:\Users\abchakravarthy\OneDrive - Nagarro\Desktop\ANSS\ANSS-Backend\ANSS.Business\bin\Debug\net6.0\ANSS.DAL.dll
+C:\Users\abchakravarthy\OneDrive - Nagarro\Desktop\ANSS\ANSS-Backend\ANSS.Business\bin\Debug\net6.0\ANSS.DAL.pdb
+C:\Users\abchakravarthy\OneDrive - Nagarro\Desktop\ANSS\ANSS-Backend\ANSS.Business\obj\Debug\net6.0\ANSS.Business.csproj.AssemblyReference.cache
+C:\Users\abchakravarthy\OneDrive - Nagarro\Desktop\ANSS\ANSS-Backend\ANSS.Business\obj\Debug\net6.0\ANSS.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abchakravarthy\OneDrive - Nagarro\Desktop\ANSS\ANSS-Backend\ANSS.Business\obj\Debug\net6.0\ANSS.Business.AssemblyInfoInputs.cache
+C:\Users\abchakravarthy\OneDrive - Nagarro\Desktop\ANSS\ANSS-Backend\ANSS.Business\obj\Debug\net6.0\ANSS.Business.AssemblyInfo.cs
+C:\Users\abchakravarthy\OneDrive - Nagarro\Desktop\ANSS\ANSS-Backend\ANSS.Business\obj\Debug\net6.0\ANSS.Business.csproj.CoreCompileInputs.cache
+C:\Users\abchakravarthy\OneDrive - Nagarro\Desktop\ANSS\ANSS-Backend\ANSS.Business\obj\Debug\net6.0\ANSS.Business.csproj.CopyComplete
+C:\Users\abchakravarthy\OneDrive - Nagarro\Desktop\ANSS\ANSS-Backend\ANSS.Business\obj\Debug\net6.0\ANSS.Business.dll
+C:\Users\abchakravarthy\OneDrive - Nagarro\Desktop\ANSS\ANSS-Backend\ANSS.Business\obj\Debug\net6.0\refint\ANSS.Business.dll
+C:\Users\abchakravarthy\OneDrive - Nagarro\Desktop\ANSS\ANSS-Backend\ANSS.Business\obj\Debug\net6.0\ANSS.Business.pdb
+C:\Users\abchakravarthy\OneDrive - Nagarro\Desktop\ANSS\ANSS-Backend\ANSS.Business\obj\Debug\net6.0\ref\ANSS.Business.dll
+C:\Users\abchakravarthy\OneDrive - Nagarro\Desktop\ANSS\ANSS-Backend\ANSS.Business\bin\Debug\net6.0\ANSS.Business.runtimeconfig.json
+C:\Users\abchakravarthy\OneDrive - Nagarro\Desktop\ANSS\ANSS-Backend\ANSS.Business\obj\Debug\net6.0\ANSS.Business.genruntimeconfig.cache
